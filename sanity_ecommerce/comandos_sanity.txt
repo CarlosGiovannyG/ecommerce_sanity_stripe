@@ -1,0 +1,3 @@
+sanity docs  ===> VER DOCUMENTACION
+sanity manage  ===> VER PANEL
+sanity start  ===> VER EL PANEL DE ADMINISTRADOR
